@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimerTp</string>
+    <string name="app_titulo">Welcome</string>
+    <string name="app_button">Enter</string>
+</resources>
